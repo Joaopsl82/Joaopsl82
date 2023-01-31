@@ -1,8 +1,8 @@
 ### Opaa! Eu sou o João 👋
 
 - 🔭 Estou atualmente trabalhando em projetos pessoais para ampliar meu conhecimento
-- 🌱 Atualmente estou estudando Python e Django
-- ⚡ Alguns fatos sobre mim: Passo meu tempo livre correndo ou fazendo exercício, pois é programador também é saudável
+- 🌱 Atualmente estou estudando Python e tecnologias voltadas para área de análise de dados
+- ⚡ Alguns fatos sobre mim: Gosto de sempre sair da minha zona de conforto, gosto de viajar e sempre conhecer coisas novas
 
 <div align="center">
   <a href="https://github.com/Joaopsl82">
